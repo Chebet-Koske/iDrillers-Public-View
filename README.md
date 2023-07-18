@@ -8,7 +8,7 @@ Upon request, you can access the code for viewing. Enjoy!
 
 ## Collaborators
 This is a group project done in collaboration with:
-- Arnold Aijuka @ArnoldG8
+- Arnold Aijuka @Arnold
 - Chebet Koske
 
 ## Languages Used
